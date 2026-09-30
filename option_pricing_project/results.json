@@ -1,0 +1,19 @@
+{
+  "n_observations": 800,
+  "iv_failed_to_solve": 0,
+  "iv_max_abs_error": 1.3883411642545695e-09,
+  "iv_mean_abs_error": 1.4022517366013564e-10,
+  "avg_iv_T0.5_K80": 0.32600608570705675,
+  "avg_iv_T0.5_K100": 0.24518945833080732,
+  "avg_iv_T0.5_K120": 0.23446087877273294,
+  "avg_iv_K100_T0.25": 0.2295237036948603,
+  "avg_iv_K100_T0.5": 0.24518945833080732,
+  "avg_iv_K100_T1.0": 0.26960682927970414,
+  "lstm_status": "ok",
+  "test_observations": 156,
+  "lstm_MAE": 0.035486966371536255,
+  "lstm_RMSE": 0.04322037845849991,
+  "mean_price_original_vol": 8.902559853799875,
+  "mean_abs_price_diff": 0.7585242196474922,
+  "mean_abs_price_diff_pct": 8.520293399922851
+}
